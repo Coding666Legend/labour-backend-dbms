@@ -1,0 +1,11 @@
+"""
+FORMAT:
+
+[dd-mm-yyyy] {github_username} =>
+your_progress_or_your_activities
+
+"""
+#PROGRESS......#
+
+[12-08-2025] {Coding666Legend} => 
+"templates" is a webpage folder.
